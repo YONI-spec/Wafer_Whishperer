@@ -1,0 +1,22 @@
+# MATLAB
+*.mat
+*.asv
+*.m~
+*.autosave
+slprj/
+sccprj/
+codegen/
+
+# Figures generees
+*.fig
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Dataset tiers (trop lourd pour GitHub)
+data/archive/
